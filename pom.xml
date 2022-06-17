@@ -30,13 +30,13 @@
                   <artifactId>logback-access</artifactId>
                   <version>${logback.version}</version>
             </dependency>
-            <dependency>
+            <!-- <dependency>
                   <groupId>org.projectlombok</groupId>
                   <artifactId>lombok</artifactId>
                   <version>${lombok.version}</version>
                   <optional>true</optional>
                   <scope>compile</scope>
-            </dependency>
+            </dependency> -->
             <dependency>
                   <groupId>junit</groupId>
                   <artifactId>junit</artifactId>
