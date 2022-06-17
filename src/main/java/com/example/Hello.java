@@ -1,4 +1,6 @@
-package src.main.java.com.example;
+package com.example;
+
+import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 public class Hello {
